@@ -1,6 +1,6 @@
 package controledegastos.repository;
 
-import br.com.controledegastos.model.Lancamento;
+import controledegastos.model.Lancamento;  // ← ALTERAR PARA ESTE
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
